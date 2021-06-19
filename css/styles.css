@@ -70,6 +70,7 @@ main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+	padding: 0 40px;
 }
 
 .icons-social i {
