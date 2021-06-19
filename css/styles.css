@@ -56,7 +56,7 @@ main {
 	flex-direction: column;
 	min-height: 100vh;
 	justify-content: center;
-	padding: 0 100px;
+	padding: 0 30px;
 	text-align: center;
 }
 
@@ -70,6 +70,7 @@ main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+	padding: 0 40px;
 }
 
 .icons-social i {
@@ -78,8 +79,8 @@ main > .tagline {
 }
 
 svg{
-	width: 2.5em;
-	height: 2.5em;
+	width: 3em;
+	height: 3em;
 	margin: 0.5em;
 }
 
